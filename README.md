@@ -6,4 +6,3 @@ Jupyter Notebook "Codes.ipynb" is a code using Scikit-learn for making DL models
 
 Excel file "Sensor_data.xlsx" is a calibrated data compensating Soft/Hard-Iron effects.
 
-Colab has been used for the environment of learning process.
